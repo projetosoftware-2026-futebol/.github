@@ -1,11 +1,10 @@
  <div align="center">
 
-# :soccer: Futebol 2026 Ecosystem
+# :soccer: Fut Manager
 
 </div>
 
-> [!IMPORTANT]
-> Welcome to the official **Futebol 2026** software engineering platform organization. This ecosystem implements a distributed microservices architecture designed for football management, tournament simulation, player tracking, and club administration.
+This ecosystem implements a distributed microservices architecture designed for football management, tournament simulation, player tracking, and club administration.
 
 ---
 
@@ -22,7 +21,7 @@
 
 ## :mag: Overview
 
-The **Futebol 2026** platform is an open source project developed for software engineering coursework. It decouples core domain logic into dedicated, lightweight services orchestrated through a centralized Spring Cloud API Gateway and presented via a responsive user interface.
+The **Fut Manager** platform is an open source project developed for software engineering coursework. It decouples core domain logic into dedicated, lightweight services orchestrated through a centralized Spring Cloud API Gateway and presented via a responsive user interface.
 
 > [!NOTE]
 > All backend domain microservices adhere to clean architectural principles, utilizing FastAPI for Python microservices, Java/Spring Boot for the API Gateway, and modern web frameworks for the client application.
